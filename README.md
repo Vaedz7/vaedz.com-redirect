@@ -1,2 +1,2 @@
-# vaedz.com-redirect
-Site that redirects to https://www.vaedz.com
+# Vaedz.com Redirect
+This site redirects to [vaedz.com](https://www.vaedz.com)
